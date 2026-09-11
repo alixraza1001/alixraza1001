@@ -62,24 +62,24 @@ Scans web projects for framework/package-manager context, unsafe env handling, l
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Business AI Platform
-**Multi-tenant AI commerce platform**
+### 🤖 [Restaurant AI Platform](https://github.com/alixraza1001/restaurant-ai-platform)
+**Multi-tenant restaurant AI commerce platform**
 
-A restaurant-first SaaS platform beginning with WhatsApp ordering, support and sales automation — designed on top of secure tenant, restaurant and branch foundations.
+A restaurant-first SaaS platform beginning with WhatsApp-oriented ordering, support and sales automation, built on secure tenant, restaurant and branch foundations. The public repository exposes a curated technical snapshot while the full commercial implementation remains private.
 
 `TypeScript` `Next.js` `Fastify` `PostgreSQL` `Supabase` `Redis`
 
-<sub>Private commercial project</sub>
+<sub>Public technical snapshot · active private commercial project</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📰 [Jasarat Property Intelligence](https://github.com/alixraza1001/jasarat-property-intelligence)
-**Newspaper → structured property intelligence**
+**Newspaper source acquisition & document intelligence**
 
-A pipeline for acquiring high-resolution Urdu newspaper pages and turning property transaction notices into reviewable, searchable real-estate data.
+A source-acquisition and document-intelligence project that reliably captures high-resolution Urdu newspaper pages and is building toward structured, reviewable real-estate data.
 
-`TypeScript` `Next.js` `Vitest` `AI extraction pipeline`
+`TypeScript` `Next.js` `Vitest` `Document intelligence`
 
 <sub>Public repository · active development</sub>
 
@@ -214,6 +214,7 @@ O Levels & A Levels · A Levels completed **2024**
 
 - [`PakkOrder`](https://github.com/alixraza1001/PakkOrder) — archived COD verification and ecommerce automation platform; sanitized public source
 - [`CodeEq`](https://github.com/alibuildsx/CodeEq) — TypeScript project-health scanner and developer safety tool
+- [`Restaurant AI Platform`](https://github.com/alixraza1001/restaurant-ai-platform) — curated technical snapshot of an active multi-tenant restaurant SaaS product
 - [`Jasarat Property Intelligence`](https://github.com/alixraza1001/jasarat-property-intelligence) — Urdu newspaper acquisition and property-intelligence pipeline
 - [`DBS_Project`](https://github.com/alixraza1001/DBS_Project) — SQL Server + Node.js database systems project
 - [`DBS_Project_v2`](https://github.com/alixraza1001/DBS_Project_v2) — alternate/versioned database systems project
