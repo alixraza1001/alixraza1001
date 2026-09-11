@@ -74,14 +74,14 @@ A restaurant-first SaaS platform beginning with WhatsApp ordering, support and s
 </td>
 <td width="50%" valign="top">
 
-### 📰 Jasarat Property Intelligence
+### 📰 [Jasarat Property Intelligence](https://github.com/alixraza1001/jasarat-property-intelligence)
 **Newspaper → structured property intelligence**
 
 A pipeline for acquiring high-resolution Urdu newspaper pages and turning property transaction notices into reviewable, searchable real-estate data.
 
 `TypeScript` `Next.js` `Vitest` `AI extraction pipeline`
 
-<sub>Active development · Source currently private</sub>
+<sub>Public repository · active development</sub>
 
 </td>
 </tr>
@@ -213,6 +213,7 @@ O Levels & A Levels · A Levels completed **2024**
 ## Public code
 
 - [`CodeEq`](https://github.com/alibuildsx/CodeEq) — TypeScript project-health scanner and developer safety tool
+- [`Jasarat Property Intelligence`](https://github.com/alixraza1001/jasarat-property-intelligence) — Urdu newspaper acquisition and property-intelligence pipeline
 - [`DBS_Project`](https://github.com/alixraza1001/DBS_Project) — SQL Server + Node.js database systems project
 - [`DBS_Project_v2`](https://github.com/alixraza1001/DBS_Project_v2) — alternate/versioned database systems project
 - [`24K-0747`](https://github.com/alixraza1001/24K-0747) — university coursework archive
