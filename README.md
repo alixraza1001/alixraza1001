@@ -36,14 +36,14 @@ Idea → Product thinking → UX → Architecture → Build → Test → Iterate
 <tr>
 <td width="50%" valign="top">
 
-### 📦 PakkOrder
+### 📦 [PakkOrder](https://github.com/alixraza1001/PakkOrder)
 **COD verification & ecommerce automation**
 
 Automates confirmation of cash-on-delivery orders for Pakistani ecommerce sellers using WhatsApp and email workflows, with seller integrations, scheduled operations and a multi-client backend.
 
 `Node.js` `Express` `Firebase` `Meta WhatsApp API` `Resend`
 
-<sub>Initial version built with Claude as an AI-assisted development partner · Source currently private</sub>
+<sub>Public archived source · initial version built with Claude as an AI-assisted development partner</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -212,6 +212,7 @@ O Levels & A Levels · A Levels completed **2024**
 
 ## Public code
 
+- [`PakkOrder`](https://github.com/alixraza1001/PakkOrder) — archived COD verification and ecommerce automation platform; sanitized public source
 - [`CodeEq`](https://github.com/alibuildsx/CodeEq) — TypeScript project-health scanner and developer safety tool
 - [`Jasarat Property Intelligence`](https://github.com/alixraza1001/jasarat-property-intelligence) — Urdu newspaper acquisition and property-intelligence pipeline
 - [`DBS_Project`](https://github.com/alixraza1001/DBS_Project) — SQL Server + Node.js database systems project
