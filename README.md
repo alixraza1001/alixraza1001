@@ -20,7 +20,7 @@
 
 I like turning real operational problems into software products.
 
-My work sits across **AI-enabled SaaS, ecommerce automation, property technology, full-stack web development, and product design**. I am especially interested in systems where software can remove repetitive work, make messy information useful, or turn an offline business workflow into a better digital product.
+My work sits across **AI-enabled SaaS, ecommerce automation, developer tooling, property technology, full-stack web development, and product design**. I am especially interested in systems where software can remove repetitive work, make messy information useful, or turn an offline business workflow into a better digital product.
 
 Alongside studying **BS Computer Science at FAST-NUCES Karachi**, I build independent products and commercial software through **Hexium Global** and my own product experiments.
 
@@ -48,6 +48,20 @@ Automates confirmation of cash-on-delivery orders for Pakistani ecommerce seller
 </td>
 <td width="50%" valign="top">
 
+### 🛡️ [CodeEq](https://github.com/alibuildsx/CodeEq)
+**Local-first project health scanner for vibe coders**
+
+Scans web projects for framework/package-manager context, unsafe env handling, likely secret leaks and build/config issues, then generates a structured project-health report without sending code to the cloud.
+
+`TypeScript` `pnpm workspaces` `Commander` `Zod` `Vitest`
+
+<sub>Public repository · local-first developer tooling</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 Business AI Platform
 **Multi-tenant AI commerce platform**
 
@@ -58,8 +72,6 @@ A restaurant-first SaaS platform beginning with WhatsApp ordering, support and s
 <sub>Private commercial project</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📰 Jasarat Property Intelligence
@@ -72,6 +84,8 @@ A pipeline for acquiring high-resolution Urdu newspaper pages and turning proper
 <sub>Active development · Source currently private</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 MakaanMetrics
@@ -84,8 +98,6 @@ A full-stack property research platform combining market evidence, comparable li
 <sub>Private product project</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ Verified Property / Karachi Verified
@@ -96,18 +108,6 @@ A Karachi-first marketplace and intelligence product designed around verified ex
 `Next.js architecture` `Product systems` `Trust & moderation design`
 
 <sub>Architecture / implementation planning · Source private</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### ⌚ Waqtoro
-**Full ecommerce storefront experience**
-
-A responsive ecommerce build covering catalog browsing, cart, wishlist, accounts, checkout, reviews, order history and Firebase-backed synchronization.
-
-`JavaScript` `HTML/CSS` `Firebase` `Firestore`
-
-<sub>Private project</sub>
 
 </td>
 </tr>
@@ -126,14 +126,14 @@ A database-backed property platform for a real estate business with listings, fi
 </td>
 <td width="50%" valign="top">
 
-### 🧊 Glacier
-**Personal progress dashboard**
+### ⌚ Waqtoro
+**Full ecommerce storefront experience**
 
-A product prototype that brings study, gym, wellness goals and streaks into one focused personal dashboard.
+A responsive ecommerce build covering catalog browsing, cart, wishlist, accounts, checkout, reviews, order history and Firebase-backed synchronization.
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `Motion`
+`JavaScript` `HTML/CSS` `Firebase` `Firestore`
 
-<sub>UI / product prototype</sub>
+<sub>Private project</sub>
 
 </td>
 </tr>
@@ -210,13 +210,14 @@ O Levels & A Levels · A Levels completed **2024**
 
 ---
 
-## Selected public academic work
+## Public code
 
+- [`CodeEq`](https://github.com/alibuildsx/CodeEq) — TypeScript project-health scanner and developer safety tool
 - [`DBS_Project`](https://github.com/alixraza1001/DBS_Project) — SQL Server + Node.js database systems project
 - [`DBS_Project_v2`](https://github.com/alixraza1001/DBS_Project_v2) — alternate/versioned database systems project
 - [`24K-0747`](https://github.com/alixraza1001/24K-0747) — university coursework archive
 
-My main product work is intentionally separated from coursework; several active commercial/product repositories remain private.
+Several active commercial/product repositories remain private by design.
 
 ---
 
